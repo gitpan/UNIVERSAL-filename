@@ -1,6 +1,7 @@
 ---
-abstract: unknown
+abstract: 'file location inspector of modules'
 author:
+  - 'shelling <navyblueshellingford@gmail.com>'
   - 'shelling <navyblueshellingford@gmail.com>'
 build_requires:
   ExtUtils::MakeMaker: 6.36
@@ -8,7 +9,7 @@ configure_requires:
   ExtUtils::MakeMaker: 6.36
 dynamic_config: 0
 generated_by: 'Module::Install version 1.06, CPAN::Meta::Converter version 2.112150'
-license: perl
+license: mit
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
@@ -20,6 +21,6 @@ no_index:
     - xt
 requires: {}
 resources:
-  license: http://dev.perl.org/licenses/
+  license: http://opensource.org/licenses/mit-license.php
   repository: git://github.com/shelling/universal-filename
-version: 0.01
+version: 0.03

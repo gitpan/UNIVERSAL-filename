@@ -23,4 +23,4 @@ no_index:
 resources:
   license: http://opensource.org/licenses/mit-license.php
   repository: git://github.com/shelling/universal-filename
-version: 0.02
+version: 0.03

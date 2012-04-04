@@ -1,12 +1,13 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "file location inspector of modules",
    "author" : [
+      "shelling <navyblueshellingford@gmail.com>",
       "shelling <navyblueshellingford@gmail.com>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.112150",
    "license" : [
-      "perl_5"
+      "mit"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -38,11 +39,11 @@
    "release_status" : "stable",
    "resources" : {
       "license" : [
-         "http://dev.perl.org/licenses/"
+         "http://opensource.org/licenses/mit-license.php"
       ],
       "repository" : {
          "url" : "git://github.com/shelling/universal-filename"
       }
    },
-   "version" : "0.01"
+   "version" : "0.03"
 }
